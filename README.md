@@ -6,7 +6,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Statistics%20preview%20card%20component%20-%20Google%20Chrome%2017_03_2022%2013_11_00.png)
+![alt text](./images/Statistics%20preview%20card%20component%20-%20Google%20Chrome%2017_03_2022%2013_11_00.png)
 
 ### Built with
 
